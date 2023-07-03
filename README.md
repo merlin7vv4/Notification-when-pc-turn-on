@@ -10,7 +10,7 @@
 
 ## Cài đặt
 
-1. Tải về file tại đây và mở bằng trình soạn thảo văn bản (ví dụ: Notepad).
+1. Tải về file tại [đây](https://github.com/merlin7vv4/Notification-when-pc-turn-on) và mở bằng trình soạn thảo văn bản (ví dụ: Notepad).
 
 2. Thay thế `WEBHOOK URL` bằng đường dẫn webhook  mà bạn đã sao chép từ Discord ở bước trước.
 
